@@ -1,2 +1,7 @@
 Uploads
 imgs/movies posters
+package.json
+package-lock.json
+node_modules
+new/in.css
+tailwind.config.js
